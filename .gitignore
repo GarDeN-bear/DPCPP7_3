@@ -1,0 +1,9 @@
+*x64/
+*vs/
+*vscode/
+*out/
+*build/
+*ErrorLog.txt
+*LogCommandFile.txt
+*ObserverOnError.txt
+*ObserverOnFatalError.txt
